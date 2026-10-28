@@ -125,6 +125,11 @@ flowchart LR
   X --> B
 ```
 
+- **Source of the verses.** The site's database was loaded from
+  [A Bíblia em SQL (MySQL) em 13 versões](https://www.sydney.eti.br/a-biblia-em-sql-mysql-em-13-versoes/), by Sydney Machado (2020), a MySQL dump of 13 Portuguese
+  and English translations; this study uses the *Almeida Revista e Atualizada* (1993) in it. If you want the
+  text itself, that is where to start; the page states no license, so check the rights of each translation
+  before using it.
 - **Words.** Lower case, accents kept, punctuation removed. Forms with a hyphen stay one word (*louvai-o*,
   *disse-lhes*), as in the translation. One-letter words (*e*, *a*, *o*) are left out, as on the site.
 - **Function words** are a list of 309 articles, prepositions, pronouns, conjunctions and forms of *ser*,

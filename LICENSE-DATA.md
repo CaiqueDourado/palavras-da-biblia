@@ -6,7 +6,8 @@ the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 Copyright (c) 2026 Caique Dourado
 
 The counts were made on the *Almeida Revista e Atualizada*, 2nd edition, © 1993 Sociedade Bíblica do
-Brasil. The text of the translation is not distributed. The excerpts in `data/contextos.csv` are short
+Brasil. The text of the translation is not distributed. The author's copy came from "A Bíblia em SQL (MySQL) em
+13 versões" by Sydney Machado (https://www.sydney.eti.br/a-biblia-em-sql-mysql-em-13-versoes/). The excerpts in `data/contextos.csv` are short
 quotations (at most 4 words on each side of the word studied, at most 3 per word, each with its reference),
 used for study and criticism; they belong to the translation's copyright holder and are **not** covered by
 the CC license. If you hold rights to this content and want something removed, open an issue: it will be

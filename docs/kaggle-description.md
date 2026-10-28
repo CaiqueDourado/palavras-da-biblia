@@ -30,7 +30,7 @@ Read the CSVs with `keep_default_na=False`: the word "nan" would otherwise becom
 
 ![Method](https://raw.githubusercontent.com/CaiqueDourado/palavras-da-biblia/main/docs/img/flow.png)
 
-The author's site **versiculo-do-dia.com** (2022) had a page per book, chapter and verse and a page "Palavras que mais aparecem na Bíblia" (the words that appear most). This dataset is that word index, rebuilt from the same SQL Server database: a script on the author's machine reads the verses, splits them into words (lower case, accents kept, hyphenated forms as one word, 2+ letters) and writes only the counts and the excerpts. The verse text is never written.
+The author's site **versiculo-do-dia.com** (2022) had a page per book, chapter and verse and a page "Palavras que mais aparecem na Bíblia" (the words that appear most). This dataset is that word index, rebuilt from the same SQL Server database (loaded from [A Bíblia em SQL (MySQL) em 13 versões](https://www.sydney.eti.br/a-biblia-em-sql-mysql-em-13-versoes/), by Sydney Machado, 2020): a script on the author's machine reads the verses, splits them into words (lower case, accents kept, hyphenated forms as one word, 2+ letters) and writes only the counts and the excerpts. The verse text is never written.
 
 ![versiculo-do-dia.com](https://raw.githubusercontent.com/CaiqueDourado/CaiqueDourado/main/assets/versiculo-do-dia.com_screenshot.png)
 

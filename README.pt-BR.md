@@ -125,6 +125,11 @@ flowchart LR
   X --> B
 ```
 
+- **Origem dos versículos.** O banco do site foi carregado a partir de
+  [A Bíblia em SQL (MySQL) em 13 versões](https://www.sydney.eti.br/a-biblia-em-sql-mysql-em-13-versoes/), de Sydney Machado (2020), um dump MySQL de 13 traduções
+  em português e inglês; este estudo usa a *Almeida Revista e Atualizada* (1993) dele. Quem quiser o
+  texto pode começar por lá; a página não informa licença, então confira os direitos de cada tradução antes
+  de usar.
 - **Palavras.** Minúsculas, acentos mantidos, pontuação removida. Formas com hífen ficam como uma palavra
   (*louvai-o*, *disse-lhes*), como na tradução. Palavras de uma letra (*e*, *a*, *o*) ficam de fora, como no
   site.
