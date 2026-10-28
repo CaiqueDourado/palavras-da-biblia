@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Palavras da Bíblia: word counts of the Almeida Revista e Atualizada (1993)"
+authors:
+  - family-names: Dourado
+    given-names: Caique
+version: 1.0.0
+date-released: 2026-10-28
+license: CC-BY-4.0
+repository-code: "https://github.com/CaiqueDourado/palavras-da-biblia"
+url: "https://www.kaggle.com/datasets/caiquedourado/palavras-da-biblia"
+keywords:
+  - bible
+  - word-frequency
+  - portuguese
+  - corpus-linguistics
+  - nlp

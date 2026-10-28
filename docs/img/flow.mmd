@@ -1,0 +1,8 @@
+flowchart LR
+  DB[("author's SQL Server<br/>biblia.dbo: books, chapters,<br/>verses, ARA 1993")] --> S["contar_palavras.py<br/>runs on the author's machine:<br/>reads the verses"]
+  S --> T["words: lower case, accents kept,<br/>hyphenated forms are one word,<br/>2+ letters"]
+  T --> C["counts per word,<br/>per book, per Testament"]
+  T --> X["excerpts: 38 words × 3,<br/>4 words each side"]
+  S -. "verse text<br/>never written" .-x O
+  C --> B["build.py<br/>function words, characteristic words,<br/>stats"] --> O["data/*.csv"]
+  X --> B

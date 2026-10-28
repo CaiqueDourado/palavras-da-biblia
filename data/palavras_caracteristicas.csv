@@ -1,0 +1,324 @@
+ordem_livro,livro,posicao,palavra,ocorrencias,fora_do_livro,indice
+1,Gênesis,1,labão,56,0,11.16
+1,Gênesis,2,abrão,60,2,8.94
+1,Gênesis,3,rebeca,31,1,8.74
+1,Gênesis,4,manre,10,0,8.74
+1,Gênesis,5,padã-arã,10,0,8.74
+2,Êxodo,1,retorcido,21,0,10.01
+2,Êxodo,2,hásteas,14,0,9.44
+2,Êxodo,3,colchetes,12,0,9.22
+2,Êxodo,4,vergas,12,0,9.22
+2,Êxodo,5,bordadura,10,0,8.97
+3,Levítico,1,examinará,22,0,10.57
+3,Levítico,2,purificar-se,12,0,9.72
+3,Levítico,3,banhar-se-á,11,0,9.6
+3,Levítico,4,encerrará,9,0,9.32
+3,Levítico,5,lustrosa,8,0,9.16
+4,Números,1,décimas,15,0,9.52
+4,Números,2,nazireado,12,0,9.21
+4,Números,3,recipiente,12,0,9.21
+4,Números,4,apresentareis,8,0,8.65
+4,Números,5,acamparão,7,0,8.47
+5,Deuteronômio,1,emprestarás,7,0,8.71
+5,Deuteronômio,2,cunhado,4,0,7.97
+5,Deuteronômio,3,habitares,4,0,7.97
+5,Deuteronômio,4,torne-se,4,0,7.97
+5,Deuteronômio,5,veado,4,0,7.97
+6,Josué,1,maquedá,9,0,9.62
+6,Josué,2,condenadas,7,0,9.28
+6,Josué,3,gráfico,5,0,8.83
+6,Josué,4,terminando,4,0,8.54
+6,Josué,5,terminar,4,0,8.54
+7,Juízes,1,manoá,17,0,10.49
+7,Juízes,2,gideão,42,1,10.18
+7,Juízes,3,sansão,37,1,10.0
+7,Juízes,4,gaal,11,0,9.88
+7,Juízes,5,salmuna,11,0,9.88
+8,Rute,1,noemi,24,0,13.92
+8,Rute,2,elimeleque,6,0,12.01
+8,Rute,3,rute,14,1,11.58
+8,Rute,4,malom,4,0,11.48
+8,Rute,5,segadores,5,1,10.18
+9,I Samuel,1,filisteu,29,1,9.24
+9,I Samuel,2,doegue,5,0,8.41
+9,I Samuel,3,hofni,5,0,8.41
+9,I Samuel,4,horesa,4,0,8.12
+9,I Samuel,5,jesimom,4,0,8.12
+10,II Samuel,1,ziba,16,0,10.28
+10,II Samuel,2,mefibosete,15,0,10.19
+10,II Samuel,3,isbosete,13,0,9.99
+10,II Samuel,4,bicri,8,0,9.32
+10,II Samuel,5,araúna,6,0,8.94
+11,I Reis,1,abisague,5,0,8.44
+11,I Reis,2,apoios,5,0,8.44
+11,I Reis,3,soalho,4,0,8.15
+11,I Reis,4,nabote,19,3,7.46
+11,I Reis,5,adonias,21,4,7.24
+12,II Reis,1,geazi,12,0,9.68
+12,II Reis,2,estragos,8,0,9.13
+12,II Reis,3,menaém,8,0,9.13
+12,II Reis,4,eliseu,63,5,8.57
+12,II Reis,5,baal-zebube,4,0,8.21
+13,I Crônicas,1,vigésima,10,0,9.6
+13,I Crônicas,2,azel,6,0,8.91
+13,I Crônicas,3,jediael,6,0,8.91
+13,I Crônicas,4,ladã,6,0,8.91
+13,I Crônicas,5,samai,6,0,8.91
+14,II Crônicas,1,santificaram,5,0,8.31
+14,II Crônicas,2,peritos,5,1,6.72
+14,II Crônicas,3,cargos,4,1,6.43
+14,II Crônicas,4,cidades-armazéns,4,1,6.43
+14,II Crônicas,5,neco,4,1,6.43
+15,Esdras,1,sesbazar,4,0,9.86
+15,Esdras,2,setar-bozenai,4,0,9.86
+15,Esdras,3,sinsai,4,0,9.86
+15,Esdras,4,tatenai,4,0,9.86
+15,Esdras,5,artaxerxes,11,3,8.4
+16,Neemias,1,sambalate,10,0,10.57
+16,Neemias,2,repararam,9,0,10.42
+16,Neemias,3,cabanas,4,0,9.35
+16,Neemias,4,gesém,4,0,9.35
+16,Neemias,5,joiaquim,4,0,9.35
+17,Ester,1,ester,55,0,13.85
+17,Ester,2,hamã,49,0,13.68
+17,Ester,3,mordecai,56,2,11.55
+17,Ester,4,vasti,10,0,11.45
+17,Ester,5,forca,8,0,11.14
+18,Jó,1,temanita,6,0,9.05
+18,Jó,2,jó,56,4,9.0
+18,Jó,3,bildade,5,0,8.81
+18,Jó,4,suíta,5,0,8.81
+18,Jó,5,escapei,4,0,8.52
+19,Salmos,1,louvai-o,19,0,9.39
+19,Salmos,2,ensina-me,15,0,9.06
+19,Salmos,3,vivifica-me,10,0,8.49
+19,Salmos,4,salmodiai,8,0,8.19
+19,Salmos,5,elevo,7,0,8.01
+20,Provérbios,1,preguiçoso,15,0,10.61
+20,Provérbios,2,adquire,9,0,9.9
+20,Provérbios,3,impune,4,0,8.82
+20,Provérbios,4,rixosa,4,0,8.82
+20,Provérbios,5,escarnecedor,11,1,8.59
+21,Eclesiastes,1,apliquei,4,0,10.25
+21,Eclesiastes,2,tolo,7,3,8.18
+21,Eclesiastes,3,sucede,13,6,8.13
+21,Eclesiastes,4,pregador,7,4,7.82
+21,Eclesiastes,5,vaidade,33,20,7.79
+22,Cântico dos Cânticos,1,querida,9,1,10.74
+22,Cântico dos Cânticos,2,conjuro-vos,4,1,9.67
+22,Cântico dos Cânticos,3,coro,8,6,8.47
+22,Cântico dos Cânticos,4,esposo,10,8,8.39
+22,Cântico dos Cânticos,5,lírios,6,6,8.08
+23,Isaías,1,crio,5,0,7.79
+23,Isaías,2,abandonados,4,0,7.5
+23,Isaías,3,aflita,4,0,7.5
+23,Isaías,4,aterrai,4,0,7.5
+23,Isaías,5,pastarão,4,0,7.5
+24,Jeremias,1,nerias,10,0,8.52
+24,Jeremias,2,despedacei,9,0,8.38
+24,Jeremias,3,canzis,6,0,7.83
+24,Jeremias,4,ebede-meleque,6,0,7.83
+24,Jeremias,5,assobio,5,0,7.59
+25,Lamentações de Jeremias,1,console,4,1,9.36
+25,Lamentações de Jeremias,2,desfalecem,5,4,8.06
+25,Lamentações de Jeremias,3,virgens,5,16,6.19
+25,Lamentações de Jeremias,4,ruas,8,40,5.52
+25,Lamentações de Jeremias,5,adversário,5,26,5.51
+26,Ezequiel,1,pilares,19,0,9.56
+26,Ezequiel,2,vestíbulos,15,0,9.23
+26,Ezequiel,3,limitando-se,12,0,8.92
+26,Ezequiel,4,área,11,0,8.8
+26,Ezequiel,5,quebar,8,0,8.36
+27,Daniel,1,abede-nego,15,0,11.01
+27,Daniel,2,mesaque,15,0,11.01
+27,Daniel,3,sadraque,15,0,11.01
+27,Daniel,4,beltessazar,10,0,10.44
+27,Daniel,5,belsazar,8,0,10.14
+28,Oséias,1,sacrificam,4,2,8.09
+28,Oséias,2,amantes,5,12,6.05
+28,Oséias,3,oseias,4,13,5.65
+28,Oséias,4,efraim,36,143,5.26
+28,Oséias,5,prostituição,6,30,5.01
+29,Joel,1,gafanhoto,5,12,7.47
+29,Joel,2,ministros,4,21,6.4
+29,Joel,3,vide,4,21,6.4
+29,Joel,4,poderoso,4,67,4.74
+29,Joel,5,sião,7,163,4.21
+30,Amós,1,sustarei,8,0,11.67
+30,Amós,2,amós,7,2,9.17
+30,Amós,3,castelos,12,5,8.77
+30,Amós,4,convertestes,5,2,8.72
+30,Amós,5,meterei,7,5,8.03
+31,Obadias,1,devias,4,2,11.05
+31,Obadias,2,possuirão,5,11,9.14
+31,Obadias,3,calamidade,4,30,7.45
+31,Obadias,4,esaú,7,92,6.58
+31,Obadias,5,edom,4,85,5.96
+32,Jonas,1,jonas,18,10,10.01
+32,Jonas,2,nínive,8,11,8.76
+32,Jonas,3,peixe,4,17,7.24
+32,Jonas,4,navio,4,22,6.87
+32,Jonas,5,társis,4,24,6.75
+33,Miquéias,1,moradora,5,7,7.52
+33,Miquéias,2,eliminarei,4,18,5.93
+33,Miquéias,3,restante,6,55,4.88
+33,Miquéias,4,transgressão,5,50,4.77
+33,Miquéias,5,fazem,4,69,4.02
+34,Naum,1,nínive,6,13,8.16
+34,Naum,2,carros,4,122,4.45
+34,Naum,3,senhor,14,8032,0.11
+35,Habacuque,1,violência,6,62,5.75
+35,Habacuque,2,ai,5,160,4.15
+35,Habacuque,3,povos,5,264,3.43
+35,Habacuque,4,nações,6,430,2.97
+35,Habacuque,5,mar,5,389,2.87
+36,Sofonias,1,dia,21,1451,2.82
+36,Sofonias,2,farei,4,322,2.74
+36,Sofonias,3,ira,4,337,2.67
+36,Sofonias,4,meio,7,698,2.36
+36,Sofonias,5,nome,5,817,1.68
+37,Ageu,1,ageu,9,2,11.37
+37,Ageu,2,salatiel,5,3,10.09
+37,Ageu,3,jozadaque,5,6,9.2
+37,Ageu,4,zorobabel,7,18,8.14
+37,Ageu,5,considerai,5,16,7.86
+38,Zacarias,1,respondeu-me,4,0,10.17
+38,Zacarias,2,perguntei,10,7,7.49
+38,Zacarias,3,habitada,5,12,5.82
+38,Zacarias,4,sucederá,5,21,5.03
+38,Zacarias,5,oliveiras,4,18,4.96
+39,Malaquias,1,dizeis,9,51,6.33
+39,Malaquias,2,exércitos,24,302,5.15
+39,Malaquias,3,ofertas,5,127,4.24
+39,Malaquias,4,diz,26,1024,3.5
+39,Malaquias,5,aliança,7,316,3.37
+40,Mateus,1,celeste,10,0,9.46
+40,Mateus,2,consumação,5,0,8.52
+40,Mateus,3,joio,9,1,7.73
+40,Mateus,4,ranger,6,1,7.18
+40,Mateus,5,recebera,6,1,7.18
+41,Marcos,1,interrogá-lo,5,3,6.43
+41,Marcos,2,possesso,5,3,6.43
+41,Marcos,3,tradição,5,5,5.77
+41,Marcos,4,vigiai,5,6,5.53
+41,Marcos,5,dormindo,4,5,5.49
+42,Lucas,1,isabel,9,0,9.18
+42,Lucas,2,intérpretes,5,0,8.39
+42,Lucas,3,matatias,4,0,8.1
+42,Lucas,4,admirados,4,1,6.52
+42,Lucas,5,mina,4,1,6.52
+43,João,1,nicodemos,5,0,8.76
+43,João,2,tanque,5,0,8.76
+43,João,3,batizando,4,0,8.47
+43,João,4,batizava,4,0,8.47
+43,João,5,samaritana,4,0,8.47
+44,Atos,1,saulo,23,0,10.55
+44,Atos,2,festo,13,0,9.75
+44,Atos,3,silas,13,0,9.75
+44,Atos,4,agripa,11,0,9.52
+44,Atos,5,estêvão,10,0,9.39
+45,Romanos,1,justificação,4,0,9.41
+45,Romanos,2,saudai,16,4,8.12
+45,Romanos,3,visitar-vos,5,1,8.12
+45,Romanos,4,morremos,4,1,7.83
+45,Romanos,5,pergunto,4,1,7.83
+46,I Coríntios,1,imoralidade,4,0,9.44
+46,I Coríntios,2,lícitas,4,0,9.44
+46,I Coríntios,3,reunis,4,0,9.44
+46,I Coríntios,4,semeia-se,4,0,9.44
+46,I Coríntios,5,ressuscitam,5,1,8.14
+47,II Coríntios,1,perigos,9,1,9.56
+47,II Coríntios,2,tito,9,4,7.98
+47,II Coríntios,3,contristados,4,4,6.9
+47,II Coríntios,4,falamos,4,6,6.37
+47,II Coríntios,5,consolação,5,11,5.83
+48,Gálatas,1,cefas,4,5,7.59
+48,Gálatas,2,escrava,5,8,7.25
+48,Gálatas,3,escravidão,4,8,6.96
+48,Gálatas,4,querem,4,14,6.19
+48,Gálatas,5,circuncisão,7,24,6.17
+49,Efésios,1,celestiais,4,6,7.37
+49,Efésios,2,mistério,6,22,6.11
+49,Efésios,3,plenitude,4,21,5.65
+49,Efésios,4,igreja,9,65,5.12
+49,Efésios,5,riqueza,4,34,4.97
+50,Filipenses,1,sentimento,4,4,8.35
+50,Filipenses,2,alegrai-vos,4,12,6.88
+50,Filipenses,3,evangelho,8,94,4.88
+50,Filipenses,4,cristo,37,495,4.63
+50,Filipenses,5,modo,6,185,3.52
+51,Colossenses,1,ministro,4,13,6.91
+51,Colossenses,2,pleno,4,20,6.31
+51,Colossenses,3,mistério,4,24,6.05
+51,Colossenses,4,igreja,4,70,4.53
+51,Colossenses,5,amado,4,81,4.32
+52,I Tessalonicenses,1,dormem,5,7,8.07
+52,I Tessalonicenses,2,tornastes,4,8,7.6
+52,I Tessalonicenses,3,vinda,4,37,5.45
+52,I Tessalonicenses,4,sabeis,5,65,4.94
+52,I Tessalonicenses,5,evangelho,6,96,4.62
+53,II Tessalonicenses,1,epístola,4,5,9.11
+53,II Tessalonicenses,2,quer,4,182,4.06
+53,II Tessalonicenses,3,graça,4,186,4.03
+53,II Tessalonicenses,4,fé,5,244,3.93
+53,II Tessalonicenses,5,cristo,10,522,3.76
+54,I Timóteo,1,piedade,9,30,6.6
+54,I Timóteo,2,combate,4,14,6.59
+54,I Timóteo,3,viúvas,6,24,6.37
+54,I Timóteo,4,doutrina,6,34,5.87
+54,I Timóteo,5,consciência,5,29,5.86
+55,II Timóteo,1,fé,8,241,3.93
+55,II Timóteo,2,cristo,13,519,3.5
+55,II Timóteo,3,graça,4,186,3.39
+55,II Timóteo,4,verdade,6,377,2.9
+55,II Timóteo,5,amor,4,264,2.88
+56,Tito,1,salvador,6,35,7.1
+56,Tito,2,boas,5,57,6.16
+56,Tito,3,obras,6,264,4.2
+56,Tito,4,graça,4,186,4.18
+56,Tito,5,fé,5,244,4.07
+57,Filemom,1,cristo,8,524,4.68
+57,Filemom,2,irmão,4,362,4.3
+57,Filemom,3,jesus,6,1174,3.13
+57,Filemom,4,senhor,5,8041,0.12
+58,Hebreus,1,obteve,4,0,9.84
+58,Hebreus,2,melquisedeque,8,2,8.43
+58,Hebreus,3,obtiveram,4,1,8.25
+58,Hebreus,4,impossível,5,5,6.67
+58,Hebreus,5,superior,11,15,6.24
+59,Tiago,1,tentado,4,6,7.75
+59,Tiago,2,fé,16,233,4.45
+59,Tiago,3,obras,13,257,4.02
+59,Tiago,4,pode,8,191,3.78
+59,Tiago,5,língua,5,132,3.69
+60,I Pedro,1,eleita,4,2,8.99
+60,I Pedro,2,procedimento,5,13,6.85
+60,I Pedro,3,sofrimentos,4,15,6.36
+60,I Pedro,4,igualmente,5,46,5.07
+60,I Pedro,5,sede,9,93,4.85
+61,II Pedro,1,paixões,4,13,7.26
+61,II Pedro,2,salvador,5,36,6.12
+61,II Pedro,3,piedade,4,35,5.87
+61,II Pedro,4,amados,4,37,5.79
+61,II Pedro,5,vinda,4,37,5.79
+62,I João,1,amamos,4,0,11.39
+62,I João,2,aperfeiçoado,4,1,9.8
+62,I João,3,filhinhos,9,9,8.22
+62,I João,4,pecando,4,6,7.69
+62,I João,5,escrevo,6,10,7.53
+63,II João,1,verdade,5,378,5.17
+63,II João,2,pai,4,1067,3.39
+64,III João,1,amado,4,81,7.04
+64,III João,2,testemunho,5,158,6.37
+64,III João,3,verdade,6,377,5.36
+64,III João,4,irmãos,4,555,4.27
+65,Judas,1,amados,4,37,7.05
+65,Judas,2,cristo,6,526,3.76
+65,Judas,3,jesus,6,1174,2.61
+65,Judas,4,deus,4,4434,0.16
+65,Judas,5,senhor,7,8039,0.04
+66,Apocalipse,1,besta,37,1,10.64
+66,Apocalipse,2,vidro,5,0,9.46
+66,Apocalipse,3,flagelos,11,1,8.94
+66,Apocalipse,4,selos,5,1,7.87
+66,Apocalipse,5,vencedor,8,2,7.76

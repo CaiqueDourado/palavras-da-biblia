@@ -1,0 +1,57 @@
+{
+ "traducao": "Almeida Revista e Atualizada, 1993 (versao_id 1 no banco do autor)",
+ "versiculos": 31104,
+ "livros": 66,
+ "capitulos": 1189,
+ "palavras": 592643,
+ "vocabulario": 30127,
+ "palavras_at": 454624,
+ "palavras_nt": 138019,
+ "hapax": 13268,
+ "funcionais": 309,
+ "ocorrencias_funcionais": 289560,
+ "top10_conteudo": [
+  {
+   "palavra": "senhor",
+   "ocorrencias": 8046
+  },
+  {
+   "palavra": "deus",
+   "ocorrencias": 4438
+  },
+  {
+   "palavra": "terra",
+   "ocorrencias": 2907
+  },
+  {
+   "palavra": "filhos",
+   "ocorrencias": 2831
+  },
+  {
+   "palavra": "israel",
+   "ocorrencias": 2544
+  },
+  {
+   "palavra": "rei",
+   "ocorrencias": 2437
+  },
+  {
+   "palavra": "disse",
+   "ocorrencias": 2402
+  },
+  {
+   "palavra": "filho",
+   "ocorrencias": 2396
+  },
+  {
+   "palavra": "casa",
+   "ocorrencias": 2006
+  },
+  {
+   "palavra": "povo",
+   "ocorrencias": 1893
+  }
+ ],
+ "contextos": 114,
+ "palavras_com_contexto": 38
+}
