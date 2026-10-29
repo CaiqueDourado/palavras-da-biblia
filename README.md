@@ -149,6 +149,10 @@ flowchart LR
   pages are expected.
 - The function-word list is a choice; the column `funcional` lets you use another.
 
+## Related
+
+- [dicionario-portugues](https://github.com/CaiqueDourado/dicionario-portugues): 272 thousand Portuguese words with phonetic keys, rhymes and AI-generated texts ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/dicionario-portugues)); its `ocorrencias` counts the Bible words here.
+
 ## License
 
 The counts, flags and indexes are **CC BY 4.0** ([LICENSE-DATA.md](LICENSE-DATA.md)); the code is MIT.

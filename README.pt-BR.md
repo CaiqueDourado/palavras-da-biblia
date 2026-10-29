@@ -151,6 +151,10 @@ flowchart LR
   relação às páginas dele são esperadas.
 - A lista de palavras funcionais é uma escolha; a coluna `funcional` permite usar outra.
 
+## Relacionados
+
+- [dicionario-portugues](https://github.com/CaiqueDourado/dicionario-portugues): 272 mil palavras do português com chaves fonéticas, rimas e textos gerados por IA ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/dicionario-portugues)); a coluna `ocorrencias` conta as palavras da Bíblia daqui.
+
 ## Licença
 
 As contagens, marcações e índices são **CC BY 4.0** ([LICENSE-DATA.md](LICENSE-DATA.md)); o código é MIT.
