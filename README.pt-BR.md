@@ -112,6 +112,12 @@ por_livro.query("palavra == 'amor'").sort_values("ocorrencias", ascending=False)
 
 O [notebook](notebooks/estudo.ipynb) tem o estudo inteiro.
 
+## Como uma palavra é estruturada
+
+![A palavra graça como um registro JSON aninhado](docs/img/word-json.png)
+
+Os arquivos se ligam pela palavra e pelo livro. Juntando tudo para **graça**: 190 ocorrências em 38 livros, 49 no Antigo Testamento e 141 no Novo (1,08 e 10,22 por 10 mil palavras), a maior parte em Romanos (24), uma das palavras características de Tito, II Timóteo e II Tessalonicenses, e os seus três trechos com a referência. Registro completo: [docs/example-word.json](docs/example-word.json), gerado por [scripts/make_json.py](scripts/make_json.py) (`python scripts/make_json.py amor` para qualquer outra palavra).
+
 ## Como foi feito
 
 ```mermaid

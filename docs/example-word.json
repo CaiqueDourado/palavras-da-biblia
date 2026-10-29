@@ -1,0 +1,121 @@
+{
+  "palavra": "graça",
+  "funcional": false,
+  "totais": {
+    "ocorrencias": 190,
+    "versiculos": 179,
+    "capitulos": 119,
+    "livros": 38,
+    "primeiro_livro": "Gênesis"
+  },
+  "por_testamento": {
+    "AT": {
+      "ocorrencias": 49,
+      "por_10_mil_palavras": 1.08
+    },
+    "NT": {
+      "ocorrencias": 141,
+      "por_10_mil_palavras": 10.22
+    }
+  },
+  "livros_com_mais_ocorrencias": [
+    {
+      "livro": "Romanos",
+      "testamento": "NT",
+      "ocorrencias": 24,
+      "por_10_mil_palavras": 31.07
+    },
+    {
+      "livro": "Salmos",
+      "testamento": "AT",
+      "ocorrencias": 20,
+      "por_10_mil_palavras": 6.13
+    },
+    {
+      "livro": "Atos",
+      "testamento": "NT",
+      "ocorrencias": 14,
+      "por_10_mil_palavras": 7.78
+    },
+    {
+      "livro": "II Coríntios",
+      "testamento": "NT",
+      "ocorrencias": 14,
+      "por_10_mil_palavras": 28.43
+    },
+    {
+      "livro": "Efésios",
+      "testamento": "NT",
+      "ocorrencias": 12,
+      "por_10_mil_palavras": 48.7
+    },
+    {
+      "livro": "I Coríntios",
+      "testamento": "NT",
+      "ocorrencias": 8,
+      "por_10_mil_palavras": 10.52
+    },
+    {
+      "livro": "Hebreus",
+      "testamento": "NT",
+      "ocorrencias": 8,
+      "por_10_mil_palavras": 13.86
+    },
+    {
+      "livro": "I Pedro",
+      "testamento": "NT",
+      "ocorrencias": 8,
+      "por_10_mil_palavras": 38.37
+    },
+    {
+      "livro": "Êxodo",
+      "testamento": "AT",
+      "ocorrencias": 7,
+      "por_10_mil_palavras": 2.94
+    },
+    {
+      "livro": "Gálatas",
+      "testamento": "NT",
+      "ocorrencias": 7,
+      "por_10_mil_palavras": 27.9
+    }
+  ],
+  "caracteristica_de": [
+    {
+      "livro": "II Tessalonicenses",
+      "posicao": 3,
+      "ocorrencias": 4,
+      "fora_do_livro": 186,
+      "indice": 4.03
+    },
+    {
+      "livro": "II Timóteo",
+      "posicao": 3,
+      "ocorrencias": 4,
+      "fora_do_livro": 186,
+      "indice": 3.39
+    },
+    {
+      "livro": "Tito",
+      "posicao": 4,
+      "ocorrencias": 4,
+      "fora_do_livro": 186,
+      "indice": 4.18
+    }
+  ],
+  "contextos": [
+    {
+      "referencia": "Gênesis 6:8",
+      "trecho": "Porém Noé achou graça diante do Senhor."
+    },
+    {
+      "referencia": "Atos 11:23",
+      "trecho": "… chegado e, vendo a graça de Deus, alegrou-se e …"
+    },
+    {
+      "referencia": "Efésios 1:6",
+      "trecho": "… da glória de sua graça, que ele nos concedeu …"
+    }
+  ],
+  "traducao": "Almeida Revista e Atualizada, 2ª edição, © 1993 Sociedade Bíblica do Brasil"
+}

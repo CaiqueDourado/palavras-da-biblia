@@ -26,6 +26,12 @@ The translation is protected by copyright, so the text itself is not here: only 
 
 Read the CSVs with `keep_default_na=False`: the word "nan" would otherwise become a missing value.
 
+## How a word is structured
+
+![The word graça as one nested JSON record](https://raw.githubusercontent.com/CaiqueDourado/palavras-da-biblia/main/docs/img/word-json.png)
+
+The files join on the word and the book. Put together for **graça** (grace): 190 occurrences in 38 books, 49 in the Old Testament and 141 in the New (1.08 and 10.22 per 10,000 words), most of them in Romans (24), one of the characteristic words of Titus, 2 Timothy and 2 Thessalonians, and its three excerpts with their reference. Full record: [docs/example-word.json](https://github.com/CaiqueDourado/palavras-da-biblia/blob/main/docs/example-word.json), built by [scripts/make_json.py](https://github.com/CaiqueDourado/palavras-da-biblia/blob/main/scripts/make_json.py).
+
 ## How it was made
 
 ![Method](https://raw.githubusercontent.com/CaiqueDourado/palavras-da-biblia/main/docs/img/flow.png)
